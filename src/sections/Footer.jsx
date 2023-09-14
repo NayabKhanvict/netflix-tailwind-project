@@ -1,6 +1,7 @@
 import { copyrightSign } from "../assets/icons";
 import { footerLogo } from "../assets/images";
 import { footerLinks, socialMedia } from "../constants";
+console.log;
 const Footer = () => {
   return (
     <footer className="max-container">
